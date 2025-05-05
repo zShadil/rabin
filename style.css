@@ -1,0 +1,14 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+  background-color: #1c652f;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background: url('jackfruit_mobile_optimized.png') no-repeat center center;
+  background-size: cover;
+}
